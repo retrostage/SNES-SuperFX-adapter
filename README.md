@@ -3,3 +3,6 @@ A simple PCB adapter that allows the use of a M29F032, AM29F032/29F016 or MBM29F
 
 
 Included is the Gerber files, which are needed for a PCB manufacturer to actually make the boards. The PDF instructions on how to assemble are included as well.
+
+
+These boards require castellation, a PCB manufacturing process that uses "half-vias" on the board edges, to ensure easy soldering to the donor cartridge. Check with your PCB manufacturer to make sure they support this feature (most do, at a slightly higher cost).
